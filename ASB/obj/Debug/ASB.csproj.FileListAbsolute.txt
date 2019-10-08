@@ -1,0 +1,33 @@
+C:\Users\PC1\Desktop\ASB\ASB\bin\Debug\ASB.exe
+C:\Users\PC1\Desktop\ASB\ASB\bin\Debug\ASB.pdb
+C:\Users\PC1\Desktop\ASB\ASB\obj\Debug\ASB.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Desktop\ASB\ASB\obj\Debug\ASB.Form1.resources
+C:\Users\PC1\Desktop\ASB\ASB\obj\Debug\ASB.Properties.Resources.resources
+C:\Users\PC1\Desktop\ASB\ASB\obj\Debug\ASB.csproj.GenerateResource.Cache
+C:\Users\PC1\Desktop\ASB\ASB\obj\Debug\ASB.exe
+C:\Users\PC1\Desktop\ASB\ASB\obj\Debug\ASB.pdb
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\obj\Debug\ASB.exe
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\obj\Debug\ASB.pdb
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\bin\Debug\ASB.exe
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\bin\Debug\ASB.pdb
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\obj\Debug\ASB.csprojResolveAssemblyReference.cache
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\obj\Debug\ASB.Form1.resources
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\obj\Debug\ASB.Properties.Resources.resources
+G:\فاز دوم - هادی و علی\jalse9\ASB\ASB\obj\Debug\ASB.csproj.GenerateResource.Cache
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\obj\Debug\ASB.exe
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\obj\Debug\ASB.pdb
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\bin\Debug\ASB.exe
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\bin\Debug\ASB.pdb
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\obj\Debug\ASB.csprojResolveAssemblyReference.cache
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\obj\Debug\ASB.Form1.resources
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\obj\Debug\ASB.Properties.Resources.resources
+F:\LEARN\My Data\Minoo Programs\C#\ASB\ASB\obj\Debug\ASB.csproj.GenerateResource.Cache
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\bin\Debug\ASB.exe
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\bin\Debug\ASB.pdb
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\obj\Debug\ASB.csprojResolveAssemblyReference.cache
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\obj\Debug\ASB.Form1.resources
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\obj\Debug\ASB.Properties.Resources.resources
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\obj\Debug\ASB.csproj.GenerateResource.Cache
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\obj\Debug\ASB.csproj.CoreCompileInputs.cache
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\obj\Debug\ASB.exe
+F:\Code Depot\ویرایش\Windows Form\ASB\ASB\obj\Debug\ASB.pdb
